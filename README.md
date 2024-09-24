@@ -2,5 +2,7 @@
 ## Desenvolvido por
 ### Estudante Davi Honório 😈
 ### Ed. Física 😍
-### Química
+### Física 😭
 ### Site desenvolvido em HTMNL e CSS
+**Áreas afins**
+### Gosto de jogar futsal, comer pizza e correr.
