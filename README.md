@@ -5,4 +5,4 @@
 ### Física 😭
 ### Site desenvolvido em HTMNL e CSS
 **Áreas afins**
-### Gosto de jogar futsal, comer pizza e correr.
+### Gosto de jogar futsal, comer pizza e correr. :trollface:
